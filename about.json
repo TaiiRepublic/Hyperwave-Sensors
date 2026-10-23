@@ -1,0 +1,11 @@
+{
+  "_help": "Edit these to change the About page. To override without rebuilding, put a copy of this file named about.json next to HyperwaveSensors.exe. Leave a link empty (\"\") to hide its button.",
+  "name": "TaiiRepublic",
+  "about": "Hi, I'm Taii — a small streamer who built Hyperwave Sensors as an analytics program to track my stream info in a way that was easy to read. Bot and viewbot scanning came after, and then I decided to open it up for everyone. If it helps your stream too, swing by my Twitch channel, say hi, and jump into the fun. o7",
+  "twitch": "https://www.twitch.tv/taiirepublic",
+  "kick": "https://kick.com/taiirepublic",
+  "feedback": "https://docs.google.com/forms/d/e/1FAIpQLSerwJIJacTb-8UIHtxDswPNr17Po1QlYwj9NPCdsrvsZgO6rA/viewform",
+  "tip": "https://streamelements.com/taiirepublic/tip",
+  "tipLabel": "☕ Buy me a coffee",
+  "tipQr": "tip-qr.png"
+}
